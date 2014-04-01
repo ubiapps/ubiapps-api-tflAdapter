@@ -1,0 +1,32 @@
+{
+  "name": "ubiapps-api-tflAdapter",
+  "publishConfig": {
+    "tag": "alpha"
+  },
+  "description": "Adapter for access to the TFL Bus times API",
+  "keywords": [
+    "ubiapps",
+    "TFL",
+    "API"
+  ],
+  "version": "0.0.1",
+  "homepage": "http://ubiapps.com/",
+  "author": "Toby Ealden <toby.ealden@gmail.com>",
+  "repository": {
+  },
+  "bugs": {
+    "email": "bugs@ubiapps.com"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "main": "./lib/rpc_tflAdapter.js",
+  "dependencies": {
+  },
+  "bundleDependencies": [],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
+}

@@ -1,0 +1,12 @@
+{
+  "apiURI": "http://ubiapps.com/api/tfladapter",
+  "params": {
+    "instances": [
+      {
+        "id": "",
+        "params": {
+          "apiURL": "http://countdown.api.tfl.gov.uk/interfaces/ura/instant_V1"
+        }
+      }]
+  }
+}
